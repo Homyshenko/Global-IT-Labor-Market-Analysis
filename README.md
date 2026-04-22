@@ -12,7 +12,7 @@
 * **Статистичне дослідження:** Розрахунок середнього досвіду роботи, медіанних зарплат та аналіз поширеності віддаленої роботи.
 * **Глибокий аналіз сегментів:** Вивчення популярності мови Python серед різних вікових груп та аналіз індустрій, де працюють найбільш високооплачувані фахівці.
 ![Plot_02](https://github.com/user-attachments/assets/2f2560d1-fa45-4218-acde-252dbf3ca057)
-![Plot_03]()
+![Plot_03](https://github.com/user-attachments/assets/999cc651-74ec-4f09-9023-3aae5540b049)
 * **Географічне порівняння:** Групування даних за країнами для порівняння рівня життя та оплати праці розробників.
 * **Візуалізація:** Побудова графіків розподілу для наочного представлення результатів.
 ![Plot_01](https://github.com/user-attachments/assets/623cb689-112f-4676-98b7-2b9534b4b9d3)
@@ -43,8 +43,11 @@ The project implementation included the following stages:
 * **Preparation & Cleaning:** Loading large-scale datasets and verifying data completeness by cross-referencing response structures.
 * **Statistical Exploration:** Calculating average work experience, median salaries, and analyzing the prevalence of remote work.
 * **Segmented Analysis:** Examining Python's popularity across different age groups and identifying industries with the highest concentration of top earners.
+![Plot_02](https://github.com/user-attachments/assets/2f2560d1-fa45-4218-acde-252dbf3ca057)
+![Plot_03](https://github.com/user-attachments/assets/999cc651-74ec-4f09-9023-3aae5540b049)
 * **Geographical Benchmarking:** Grouping data by country to compare developer compensation and market maturity.
 * **Visualization:** Developing distribution plots to present findings in an intuitive, recruiter-friendly format.
+![Plot_01](https://github.com/user-attachments/assets/623cb689-112f-4676-98b7-2b9534b4b9d3)
 
 ### Functions and Techniques
 The following Pandas-based tools and techniques were utilized:
